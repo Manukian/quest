@@ -89,6 +89,7 @@ $(window).on('load', function () {
             $('.next_step').delay(6000).fadeIn('slow');
             $('.question_number_digits').html(question);
             $('.question_number_letters').html('сёрд');
+            $('.question_number_letters').css('margin-left','-60px');
             $('.question_number').delay(6000).fadeIn('slow');
             $('.input_label').html('введите ваш возраст');
             $('.input').val('');
