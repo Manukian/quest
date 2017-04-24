@@ -77,7 +77,7 @@ $(window).on('load', function () {
             $('.first_answer_correct_img').addClass('second_answer_correct_for_first_img');
             $('.first_answer_correct_img').addClass('second_for_first_correct');
             $('.next_step').hide();
-            $('.next_step_text').html('идите в кинотеатр...возьмите билет на тот скучный фильм, на который вас водил Никита');
+            $('.next_step_text').html('идите в кинотеатр Аврора, купите билет на тот скучный фильм, на который вас водил Никита');
             $('.right_answer_text').html('суперски!');
             $('.help_text').html('мы бы дали 24 или 25');
             $('.right_answer_text').css('margin-left','-280px');
